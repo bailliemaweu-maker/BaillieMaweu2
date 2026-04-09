@@ -29,6 +29,14 @@
             android:layout_height="200dp"
             android:src="@drawable/image1"/>
 
+<!--        Banner advert goes here-->
+        <com.google.android.gms.ads.AdView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/adview"
+            app:adSize="BANNER"
+            app:adUnitId="ca-app-pub-3940256099942544/6300978111"/>
+
 
 <!--        Buttons goes here -->
 <Button
