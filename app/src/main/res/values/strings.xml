@@ -1,3 +1,160 @@
 <resources>
     <string name="app_name">BaillieMaweu</string>
+    <string name="healthy_recipes">
+Healthy Recipes  \n
+
+1. Fruit Salad \n
+A mix of fresh fruits like bananas, apples, and oranges. A mix of fresh fruits like bananas, apples, and oranges. A mix of fresh fruits like bananas, apples, and oranges. A mix of fresh fruits like bananas, apples, and oranges. \n\n\n
+
+2. Grilled Chicken \n
+Low-fat grilled chicken served with vegetables. \n\n\n
+
+3. Vegetable Stir Fry  \n
+Carrots, broccoli, and peppers cooked lightly.  \n\n\n
+
+4. Oatmeal Breakfast  \n
+Oats with milk and fruits.  \n\n\n
+
+5. Avocado Toast \n
+Whole grain bread topped with avocado.  \n\n\n
+
+6. Boiled Eggs  \n
+Rich in protein and easy to prepare. \n\n\n
+
+7. Smoothie Bowl \n
+Blended fruits with yogurt and nuts.  \n\n\n
+
+8. Brown Rice and Beans  \n
+Healthy and full of fiber.  \n\n\n
+
+9. Baked Fish  \n
+Fish baked with lemon and spices.  \n\n\n
+
+10. Greek Yogurt with Honey  \n
+Good for digestion and very nutritious. \n\n\n
+</string>
+
+    <string name="nutrition">
+Nutrition Advice \n\n
+
+1. Fruit Salad \n
+A mix of fresh fruits like bananas, apples, and oranges. Great for vitamins, minerals, and fiber.\n\n\n
+
+2. Grilled Chicken \n
+Low-fat grilled chicken served with vegetables. Excellent source of lean protein.\n\n\n
+
+3. Vegetable Stir Fry \n
+Carrots, broccoli, and peppers cooked lightly. Packed with antioxidants and fiber.\n\n\n
+
+4. Oatmeal Breakfast \n
+Oats with milk and fruits. Supports heart health and keeps you full.\n\n\n
+
+5. Avocado Toast \n
+Whole grain bread topped with avocado. Rich in healthy fats and fiber.\n\n\n
+
+6. Boiled Eggs \n
+Rich in protein and easy to prepare. Helps muscle growth and brain function.\n\n\n
+
+7. Smoothie Bowl \n
+Blended fruits with yogurt and nuts. Provides protein, vitamins, and probiotics.\n\n\n
+
+8. Brown Rice and Beans \n
+Healthy and full of fiber. Great combination of complex carbs and protein.\n\n\n
+
+9. Baked Fish \n
+Fish baked with lemon and  spices. Excellent omega-3 fatty acids source.\n\n\n
+
+10. Greek Yogurt with Honey \n
+Good for digestion and very nutritious. Rich in protein and probiotics.\n\n\n
+
+11. Almonds \n
+A handful of almonds daily. Supports heart health and keeps you energized.\n\n\n
+
+12. Spinach Salad \n
+Spinach, cherry tomatoes, cucumbers, and olive oil. High in iron and vitamins.\n\n\n
+
+13. Quinoa Bowl \n
+Quinoa with vegetables and chickpeas. Complete protein with fiber.\n\n\n
+
+14. Cottage Cheese \n
+Low-fat cottage cheese with fruits. High protein and calcium.\n\n\n
+
+15. Lentil Soup \n
+Warm lentil soup with spices. Excellent source of plant protein and fiber.\n\n\n
+
+16. Berries Mix \n
+Blueberries, raspberries, and strawberries. Rich in antioxidants and vitamins.\n\n\n
+
+17. Sweet Potato \n
+Baked sweet potato. High in fiber and vitamin A.\n\n\n
+
+18. Chia Pudding \n
+Chia seeds soaked in milk or yogurt. Rich in omega-3s and fiber.\n\n\n
+
+19. Turkey Wrap \n
+Whole wheat wrap with turkey and veggies. Lean protein and complex carbs.\n\n\n
+
+20. Green Tea\n
+Unsweetened green tea. Boosts metabolism and rich in antioxidants.\n\n\n
+</string>
+    <string name="meditation">
+       Meditation Activity \n\n
+       1. When you meditate you relax your mind. \n
+        You can meditate my exercising regularly. \n
+        Meditation enables someone to free their mind from the struggles their are going through.\n
+        Meditation is one of the ways one can relieve stress.\n
+        Meditation can be done in many ways.\n
+        Apart from exercising one can do Yoga.\n
+
+    </string>
+
+    <string name="hydration">
+        Welcome to hydration Activity \n\n
+        You need to drink enough water \n
+        It is good for your health \n\n
+        2. Ensure the water is clean \n
+        The water must be clean \n\n
+        3. Staying hydrated saves you \n
+        It prevents you from having diseases such as kidney failure \n\n
+        4. Hydration protects your skin \n
+        It strengthens your skin and makes your skin to be clear.\n\n
+    </string>
+
+    <string name="exercise">
+        Welcome to Exercise Activity \n\n
+        1. Exercise is one of the essentials that one has to add in there to do list .\n
+        2.When one does not exercise they are slowly killing themselves.
+        This is because exercise they not only strengthen their body but also improve their immune system.\n
+        3.Thus one should occasionally exercise
+    </string>
+
+    <string name="motivation">
+        Welcome to Motivation Activity\n\n
+        1.One should motivate themselves to live a healthy life \n
+        This is because it will enable them to live longer.\n
+
+        2. One should reward himself\n
+        When one follows his /her healthy routine her should motivate himself in a healthy manner.\n
+
+        3 One should punish himself\n
+        When one fails to keep up with their program they should punish themselves in order not to redo the mistake.
+
+    </string>
+
+
+    <string name="Weeklygoals">
+        Welcome to weekly Goals Activity \n\n\n
+        Here we help you create a weekly program of maintaining good health.\n
+        We help you create a good routine for yourself.\n
+        This depends on How much weight you want to lose, You budget on what you it and how much freetime you have or your exercise time.\n
+
+    </string>
+
+    <string name="Progress">
+        Welcome to Progress Activity\n\n\n
+        Here we are able to see the progress that you have made.
+        We achieve this by tracking your exercise time using our app which can be connected to your smart watch.\n
+        We also ask you to fill a questionnaire on how you are doing, This is done weekly.\n
+        We also award those who are able to follow their routine to the latter.
+    </string>
 </resources>
