@@ -15,20 +15,22 @@ import com.google.android.gms.ads.interstitial.InterstitialAd
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback
 
 
+
+
 class MainActivity : AppCompatActivity() {
     private var mInterstitialAd: InterstitialAd? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
+//        initialize the mobile ad
+        MobileAds.initialize(this)
 
-//        initialize the advert
-        MobileAds.initialize(applicationContext)
-//        fetch the adview by id
-        val adView = findViewById<AdView>(R.id.adview)
-//        load the advert
-        adView.loadAd(AdRequest.Builder().build())
-        loadInterstitialAd()
+//        fetch the ad view
+        val adview =findViewById<AdView>(R.id.adview)
+
+//        load the add view
+        adview.loadAd(AdRequest.Builder().build())
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
@@ -111,11 +113,10 @@ class MainActivity : AppCompatActivity() {
             }
         )
     }
-    //Function checks if ad already running not to run another one and overlap - which is wrong
+    //Function checks if ad already running not to run anothet one and overlap - which is wrong
     fun showInterstitialAd() {
         if (mInterstitialAd != null) {
             mInterstitialAd?.show(this)
         }
     }
-
 }
